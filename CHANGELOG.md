@@ -6,4 +6,4 @@ Init project
 
 ### Added
 
--   `replaceAll(input, mapObj, autoEscapeKeys?)`
+-   `replaceAll(input, mapObj)`
