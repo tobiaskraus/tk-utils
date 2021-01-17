@@ -1,0 +1,17 @@
+{
+    "name": "tk-utils",
+    "version": "1.0.0",
+    "description": "several js / ts util functions",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "utils",
+        "parse",
+        "ts",
+        "typescript"
+    ],
+    "author": "Tobias Kraus <contact@tobias-kraus.com> (www.tobias-kraus.com)",
+    "license": "MIT"
+}
