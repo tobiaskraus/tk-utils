@@ -6,4 +6,5 @@ Init project
 
 ### Added
 
+-   `pick(obj, keys)`
 -   `replaceAll(input, mapObj)`
